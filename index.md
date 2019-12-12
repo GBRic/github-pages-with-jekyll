@@ -1,10 +1,10 @@
  Gordon Richard 
 
 ## Personal Information
-My name is Gordon and I am a Swiss-Australian dual citizen. After earning a sales diploma in Switzerland, I did work relating to musical instruments. I would play analog and digital synthesizers and the bass guitar at live venues and in studios. I then met my wife when I came to live in Australia. I am a learner of Mandarin and am fluent in German and English.
+Hi, my name is Gordon and I am a Swiss-Australian dual citizen. After earning a sales diploma in Switzerland, I worked selling musical instruments. I would play analog and digital synthesizers and the bass guitar at live venues and do recordings in studios. I then met my wife when I came to live in Australia. I am a learner of Mandarin and am fluent in German and English.
 
 ## Interest in IT
-My father is a programmer. At a young age, he would introduce me to games and screensavers. As the years went by, I encountered computers in more places outside my home as they began to become common in the households of many. One memory I have is that of a friend's older brother booting up Linux, then explaining to us what the kernel was doing. I never forgot the excitement in his voice, even though I remained clueless as to what his explanations meant. As I grew older, I wanted to know what was going on under the hood of a computer and within its software. My work career however progressed in a different direction. Today, I am still as intrigued by computers as ever and I enjoy using them to do work, study and create arts.
+My father is a programmer. At a young age, he would introduce me to games and screensavers. As the years went by, I encountered computers in more places outside my home as they began to become common in the households of many people. One memory I have is that of a friend's older brother booting up Linux, then explaining to us what the kernel was doing. I never forgot the excitement in his voice, even though I remained clueless as to what his explanations meant. As I grew older, I wanted to know what was going on under the hood of a computer and within its software. My work career however progressed in a different direction. Today, I am still as intrigued by computers as ever and I enjoy using them to do work, study and create arts.
 
 Based on the reviews of former and current students and the university's ranking, I decided to gain entry into the course via OUA (Open Universities Australia). I am living the expatriate lifestyle currently in Taiwan. The Bachelor of Information Technologies pathway through RMIT fits my way of living. It enables me to conduct my studies the way it suits me, which in my case means that I can spend more time with loved ones.
 
@@ -80,9 +80,13 @@ Strengths of a Reflector
 - Good at listening to others and assimilating information
 - Rarely jumps to conclusions
 
+Oxford Learning College. (2019). Learning Type Quiz • Oxford Learning College. [online] Available at: https://www.oxfordcollege.ac/learning-type-quiz-1/ [Accessed 12 Dec. 2019].
+
 _Out come of a "Big 5" personality test.
 
 Big5 https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=3.6,3,3.9,3.5,3.6
+
+Openpsychometrics.org. (2019). Big Five Personality Test Results. [online] Available at: https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=3.6,3,3.9,3.5,3.6 [Accessed 12 Dec. 2019].
 
 ## My thoughts on Personality tests
 In conclusion, while there certainly is a degree of truth in the statements of these generated tests, I do not believe that people, in general, can be put in such broadly defined categories. When I tried to recreate the result of my first Myers-Briggs test, again answering truthfully, the outcome was ENFJ. Some characteristics of this personality type are the exact opposite of the INTP type. While I appreciate that there are psychological tools like the Myers - Briggs test, to me personally people are more nuanced than what can be captured in a single test. 
@@ -93,6 +97,10 @@ Teams perform better when people with diverse personalities collaborate. Taking 
 
 ## Project idea
 
-My project called ???? is an online platform that enables skilled IT professionals such as programmers, freelancers or web-designers to be connected with customers seeking hard – or software solutions for any purpose. It serves small businesses in need of networking solutions and advice, households that want to transform their property with smart home tech as well as IT professionals who seek to earn a side income. 
+My project called ???? is an online platform that enables programmers, web-designers and other skilled professionals to connect with customers seeking IT solutions. It serves small businesses in need of networking solutions and households that want to transform their property with smart home tech. ??? connects them with IT professionals who give advice, improve existing systems or create customisations.
 
-Small things can make a huge difference. A proximity sensor attached to an automatic sliding door provides elegant convenience. Teachers using a program to build their individualized lesson plans, rather than typing them over and over again, can save time. Home automation is growing in Australia. Projections are a 40.6 percent household penetration by 2023, up by 19.5% from this year's estimates. 
+Smart gadgets, via the "Internet of things" (IOT), today bring improved quality of life to patients and elderely people, enhance the performance of professionals and deliver convenience to people around the globe. Small things can make a huge difference. A sensor designed to measure, detect or capture a thing can be accessible via remote control and access. Different single components can be programmed to recognise each other and pass on data and respond to user inputs. Fridges can talk to their hungry owners and order food. Home automation is growing in Australia. Projections are a 40.6 percent household penetration by 2023, up by 19.5% from this year's estimates. https://www.statista.com/outlook/279/107/smart-home/australia
+There are millions of accessible options and ways to improve someones life using existing technologies. Installing these systems, individuals or professional companies can mostly rely on predesigned applications. Depending on the need or purpose of the set-up however, even very basic set-ups need a minimum level of technological understanding and the most creative solutions are provided by people with advanced knowledge of the technology. IN essence, not everyone is aware or possesses the know-how to make those changes, while on the other hand, for many graduating IT professionals, getting hands on work experience is valuable for their future careers. 
+
+There are two types of users on ???. 
+ 
