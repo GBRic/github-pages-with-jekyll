@@ -1,7 +1,7 @@
  Gordon Richard 
 
 ## Personal Information
-Hi, my name is Gordon and I am a Swiss-Australian dual citizen. After earning a sales diploma in Switzerland, I worked selling musical instruments. I would play analog and digital synthesizers and the bass guitar at live venues and do recordings in studios. I then met my wife when I came to live in Australia. I am a learner of Mandarin and am fluent in German and English.
+My name is Gordon and I am a Swiss-Australian dual citizen. After earning a sales diploma in Switzerland, I worked selling musical instruments. I would play analog and digital synthesizers and the bass guitar at live venues and do recordings in studios. I then met my wife when I came to live in Australia. I am a learner of Mandarin and am fluent in German and English.
 
 ## Interest in IT
 My father is a programmer. At a young age, he would introduce me to games and screensavers. As the years went by, I encountered computers in more places outside my home as they began to become common in the households of many people. One memory I have is that of a friend's older brother booting up Linux, then explaining to us what the kernel was doing. I never forgot the excitement in his voice, even though I remained clueless as to what his explanations meant. As I grew older, I wanted to know what was going on under the hood of a computer and within its software. My work career however progressed in a different direction. Today, I am still as intrigued by computers as ever and I enjoy using them to do work, study and create arts.
@@ -106,9 +106,7 @@ Sign up and user types:
 
 Users access and sign up to ??? via an application or their browser. The fields users fill out in order to create an account are their name and address, along with email address, phone number and a password. There are two types of free account. 
 - People with qualifications such as work experience, university degrees and diplomas, certificates or statements of attainment, submit proof of their skills. Review of their submissions is necessary to confirm authenticity. Access to a pro-account to begin work on open projects is then granted. 
-- Users who do not provide any documentation of their skills are assumed to be normal users who can post work requests, seek inspiration or show their tech-creations and solutions within a micro blog layout. For them, there are many incentives to sign up for an account and participate.
-
-All signed up users must be elligible Australian citizens or residents and minimum 18 years of age.
+- Users who do not provide any documentation of their skills are assumed to be normal users who can post work requests, seek inspiration or show their tech-creations and solutions within a micro blog layout. For them, there are many incentives to sign up for an account and participate. All signed up users must be elligible Australian citizens or residents and a minimum of 18 years of age.
 
 Incentives
 
@@ -116,8 +114,8 @@ Incentives
 On the platform, normal users may open a work request. ??? determines suitable pro-users for the task based on their location, qualification and reviews and notifies both parties via email or message.
 - Exchange of information/reviews
 Reviews and reading and creating comments is enabled for users with an account. Pro-account users are reviewed based on criteria such as the quality of their work, friendlieness and reliability.
-- Rewards through weekly/monthly/yearly competitions
-There are three types of competitions, weekly, monthly and yearly and they are awarded in two distinct categories, for content creators and best performing pro-user. They all conclude in the award of prices for the users who win. 
+- Rewards through competitions
+There are two types of competitions, weekly/monthly and yearly and they are awarded in two distinct categories, for content creators and best performing pro-user. They all conclude in the award of prices for the users who win. 
 - Ad free environment
 There are no ads for users with an account.
 - Customisations and content
@@ -127,9 +125,40 @@ Users may still share project ideas without the need to sign up, however they wi
 
 Work requests by users
 
-A main feature of ??? are work requests, whereas only specifically IT related requests are permitted. There are at least two forms of work request: Individual requests and group requests. Individual requests are for tasks that can be performed and completed by a single person in a given time frame. Group requests are for more complex projects that can only be accomplished by a team. Group requests work by finding and suggesting pro-accounts, putting together a team comprising of members with a complimentary skill set. Further there can be different types of requests, depending on wether the work can be done remotely or on-site. Similar to common marketplace pinboards, all requests are publicly accessible. Users determine the exact nature of the request using a pre-defined form, which seeks to cover all possible appliances and methods. Additionally, users may ask for further customisations, the pre-defined form cannot be left blank however. Pro-users who choose to act on a request consider the distance to their current location and the technical difficulty of the request. They then hit a button to accept the request, upon which they then enter their base rate of pay per hour of work plus cost for use of materials for said request. Users may review this and then decide to finalise their request. Payment is immidiately taken and goes into escrow. This is a fundamentally important part of the service ??? provides, it is therefore here where a low percentage service fee is applicable. All parties confirm that the work has been completed and the money is released by the escrow service. Should there be dissatisfaction with the performance of the pro-user, the money could be withheld if there is sufficient proof of such claim. Dissatisfaction is only confirmed if one or more of the work request's items both parties have agreed upon are not met, this may or may not include things such as the time frame in which the work is expected to be completed. Through this clause, users are able to define which exact conditions need to be matched for a request to be considered completed. 
+A main feature of ??? are work requests, whereas only specifically IT related requests are permitted. There are at least two forms of work request: Individual requests and group requests. Individual requests are for tasks that can be performed and completed by a single person in a given time frame. Group requests are for more complex projects that can only be accomplished by a team. Group requests work by finding and suggesting pro-accounts, putting together a team comprising of members with a complimentary skill set. Further there can be different types of requests, depending on wether the work can be done remotely or on-site. Similar to common marketplace pinboards, all requests are publicly accessible. Users determine the exact nature of the request using a pre-defined form, which seeks to cover all possible appliances and methods. Additionally, users may ask for further customisations, the pre-defined form cannot be left blank however. Pro-users who choose to act on a request consider the distance to their current location and the technical difficulty of the request. They then hit a button to accept the request, upon which they then enter their base rate of pay per hour of work plus the cost for use of materials for said request. Users may review this and then decide to finalise their request. Payment is immidiately taken and goes into escrow. This is a fundamentally important part of the service ??? provides, it is therefore here where a low percentage service fee is applicable. All parties confirm that the work has been completed and the money is released by the escrow service. Should there be dissatisfaction with the performance of the pro-user, the money can be withheld by the escrow. Dissatisfaction is only confirmed if one or more of the work request's items both parties have agreed upon are not met, this may or may not include things such as the time frame in which the work is expected to be completed. Through this clause, users are able to define which exact conditions need to be present for a request to be considered completed. Pro-account users may win in a weekly held contest, where the winner is determined by the evaluation of a score made up of the number of fulfilled requests and customer statisfaction ratings. Once a year, ??? announces the overall best performing pro-account user.
 
 Users creative contributions
 
-Users may use ???'s microblogging format to post their ideas and projects
+Users use ???'s microblogging format to post their ideas and projects in formats such as photo, video, text documents and miscallenous files. Allowed is everything tech related, this can be self made devices, 3d-printed items, programs, robotics and more. The guidelines are strict in the sense that the content needs to be original and self made. Users may add comments and a discussion can take place within each submission. Unfinished projects or those at the beginning of their development may benefit from input and feedback that other users give. People with similar interests with whom they can collaborate can also be found through this way. With each submission, users receive the chance to win in a monthly held vote on the best submission. Only users with a verified account are able to submit their vote and each user can only vote once a week. Only users who posted original content can vote. To verify original content, ??? does a reverse image search to check for material copied of the internet. Contributors who wish to partake in the competition must submit proof of originality of the content in the form of taking a photo alongside a unique identifier, such as a driver's license and submit it in a secure form. At the end of the year, a winner is picked from all of the past year's weekly contributions.
+
+# Tools and Technologies
+
+To develop ???, several hard and software tools are needed.
+
+## The Basics
+A computer, a text editor such as GNU Emacs or Notepad ++, Github to develop and share code.
+
+## Further needed
+An automation system for tests and set up of a local http server with Python. An application program interface for the integration of the escrow system, such as the one offered by escrow.com/api and more provided by Firebase. Encryption tools to safeguard sensitive customer data. A reverse search engine such as tineye.com.
+
+MDN Web Docs. (2019). Installing basic software. [online] Available at: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software [Accessed 13 Dec. 2019].
+** 
+# Skills needed
+
+- Html skills
+- Java skills
+- Python skills
+- Objective-C skills
+- Implementations of API's such as
+  - Firebase Cloud Messaging 
+  - Firebase Auth 
+  - Firebase Realtime Database
+- Knowledge around server and network encryption
+- Marketing skills to promote the platform's service to people with work requests.
+
+All of the above mentioned ressources are accessible to everyone. Integrating and maintaining the frameworks and developing everything from scratch requires a devoted team of individuals.
+
+# Outcome
+
+By being able to view different solutions, projects and ideas, users will be more likely to seek to implement the such in their own lives, thus generating more need for work to be completed. This, in turn, serves the community in a variety of ways. I try to explain this in a specific scenario. Recently, the sad reality of elder abuse at nursing homes has hit the news. Loved ones, sometimes at the mercy of complete strangers, may feel an increased need to communicate with a family member in a situation which does not allow them the access to their usual way of communication. One way to solve this could be to simply design a button with a trigger which sends a notification to a family member. A talented person receives this work request through ???, maybe she or he was waiting for this chance to develop something unique. From a distance, the platform acts as a catalyst for innovation sharing but essentially it connects the enablers of such technology with real opportunities.  
 
