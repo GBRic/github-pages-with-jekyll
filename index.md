@@ -100,7 +100,36 @@ Teams perform better when people with diverse personalities collaborate. Taking 
 My project called ???? is an online platform that enables programmers, web-designers and other skilled professionals to connect with customers seeking IT solutions. It serves small businesses in need of networking solutions and households that want to transform their property with smart home tech. ??? connects them with IT professionals who give advice, improve existing systems or create customisations.
 
 Smart gadgets, via the "Internet of things" (IOT), today bring improved quality of life to patients and elderely people, enhance the performance of professionals and deliver convenience to people around the globe. Small things can make a huge difference. A sensor designed to measure, detect or capture a thing can be accessible via remote control and access. Different single components can be programmed to recognise each other and pass on data and respond to user inputs. Fridges can talk to their hungry owners and order food. Home automation is growing in Australia. Projections are a 40.6 percent household penetration by 2023, up by 19.5% from this year's estimates. https://www.statista.com/outlook/279/107/smart-home/australia
-There are millions of accessible options and ways to improve someones life using existing technologies. Installing these systems, individuals or professional companies can mostly rely on predesigned applications. Depending on the need or purpose of the set-up however, even very basic set-ups need a minimum level of technological understanding and the most creative solutions are provided by people with advanced knowledge of the technology. IN essence, not everyone is aware or possesses the know-how to make those changes, while on the other hand, for many graduating IT professionals, getting hands on work experience is valuable for their future careers. 
+There are millions of accessible options and ways to improve someones life using existing technologies. The most creative solutions are provided by people with advanced knowledge of the technology. In essence, not everyone is aware or possesses the know-how to make those changes, while on the other hand, for many graduating IT professionals, getting hands on work experience is valuable for their future careers. What if this exchange takes place on a platform with the layout of a marketplace, where users offer their projects, to be realised by those with the know-how. Furthermore, being able to share project ideas and inspire others, ??? is more than just a space for where odd jobs can be found. 
 
-There are two types of users on ???. 
- 
+Sign up and user types:
+
+Users access and sign up to ??? via an application or their browser. The fields users fill out in order to create an account are their name and address, along with email address, phone number and a password. There are two types of free account. 
+- People with qualifications such as work experience, university degrees and diplomas, certificates or statements of attainment, submit proof of their skills. Review of their submissions is necessary to confirm authenticity. Access to a pro-account to begin work on open projects is then granted. 
+- Users who do not provide any documentation of their skills are assumed to be normal users who can post work requests, seek inspiration or show their tech-creations and solutions within a micro blog layout. For them, there are many incentives to sign up for an account and participate.
+
+All signed up users must be elligible Australian citizens or residents and minimum 18 years of age.
+
+Incentives
+
+- Access to skilled professionals
+On the platform, normal users may open a work request. ??? determines suitable pro-users for the task based on their location, qualification and reviews and notifies both parties via email or message.
+- Exchange of information/reviews
+Reviews and reading and creating comments is enabled for users with an account. Pro-account users are reviewed based on criteria such as the quality of their work, friendlieness and reliability.
+- Rewards through weekly/monthly/yearly competitions
+There are three types of competitions, weekly, monthly and yearly and they are awarded in two distinct categories, for content creators and best performing pro-user. They all conclude in the award of prices for the users who win. 
+- Ad free environment
+There are no ads for users with an account.
+- Customisations and content
+Include but are not limited to: Avatar creation, user flair and unlimited blog posts. 
+
+Users may still share project ideas without the need to sign up, however they will not receive any of the benefits. Accessing more than a certain number of posts will prompt users to sign up to continue browsing.
+
+Work requests by users
+
+A main feature of ??? are work requests, whereas only specifically IT related requests are permitted. There are at least two forms of work request: Individual requests and group requests. Individual requests are for tasks that can be performed and completed by a single person in a given time frame. Group requests are for more complex projects that can only be accomplished by a team. Group requests work by finding and suggesting pro-accounts, putting together a team comprising of members with a complimentary skill set. Further there can be different types of requests, depending on wether the work can be done remotely or on-site. Similar to common marketplace pinboards, all requests are publicly accessible. Users determine the exact nature of the request using a pre-defined form, which seeks to cover all possible appliances and methods. Additionally, users may ask for further customisations, the pre-defined form cannot be left blank however. Pro-users who choose to act on a request consider the distance to their current location and the technical difficulty of the request. They then hit a button to accept the request, upon which they then enter their base rate of pay per hour of work plus cost for use of materials for said request. Users may review this and then decide to finalise their request. Payment is immidiately taken and goes into escrow. This is a fundamentally important part of the service ??? provides, it is therefore here where a low percentage service fee is applicable. All parties confirm that the work has been completed and the money is released by the escrow service. Should there be dissatisfaction with the performance of the pro-user, the money could be withheld if there is sufficient proof of such claim. Dissatisfaction is only confirmed if one or more of the work request's items both parties have agreed upon are not met, this may or may not include things such as the time frame in which the work is expected to be completed. Through this clause, users are able to define which exact conditions need to be matched for a request to be considered completed. 
+
+Users creative contributions
+
+Users may use ???'s microblogging format to post their ideas and projects
+
