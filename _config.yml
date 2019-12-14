@@ -1,12 +1,1 @@
 theme: minima 
-title: My profile
-author: Gordon Richard
-email: gordonrichard@outlook.com.au
-description: > # this means to ignore newlines until "baseurl:"
-Welcome to my profile. I would love to hear what you think about my project idea.
-
-# social links
-
-github_username:  GBRic
-
-show_excerpts: true # set to false to remove excerpts on the homepage
